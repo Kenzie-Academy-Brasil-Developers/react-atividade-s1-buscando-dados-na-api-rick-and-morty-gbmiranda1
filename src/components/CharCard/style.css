@@ -14,6 +14,11 @@
     cursor: pointer;
 }
 
+.mudarCor{
+    background-color: red;
+}
+
+
 .container-card img{
     width: 200px;
 }
